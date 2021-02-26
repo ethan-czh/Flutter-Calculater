@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/ethan-czh/Flutter-Calculater/master/images/github_logo.png)
+![image](https://github.com/ethan-czh/Flutter-Calculater/blob/master/images/github_logo.png)
 
 # flutter-calculater
 
